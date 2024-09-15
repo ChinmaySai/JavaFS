@@ -10,6 +10,7 @@ public class Palindrome {
         {
         	s2=s2+s1.charAt(i);
         }
+        
         if(s1.equals(s2)) {
         	System.out.println("Palindrome");
         }
