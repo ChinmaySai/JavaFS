@@ -22,7 +22,7 @@ public class Panagram {
          }
          if(val==true)
          {
-        	 System.out.println("Panagram");
+        	 System.out.println("Given String is Panagram");
          }
          else
          {
